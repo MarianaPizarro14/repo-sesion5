@@ -11,3 +11,8 @@ print(f"Multiplicación: {num1} x {num2} = {num1 * num2}")
 # Agregá acá una operación más — división, módulo, potencia, lo que quieras
 
 print(f"División:       {num1} / {num2} = {num1 / num2}")
+
+if num2 != 0:
+    print(f'División: {num1} / {num2} = {num1 / num2}')
+else:
+    print('División: no se puede dividir por cero')
