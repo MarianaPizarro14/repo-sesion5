@@ -1,12 +1,10 @@
-saludo.py:
-
 # saludo.py
 # Completá con tus datos reales
 
-nombre  = "Tu nombre aquí"
+nombre  = "Mariana Pizarro"
 carrera = "Análisis y Desarrollo de Software"
-proyecto = "Nombre de tu proyecto"
+proyecto = "Uy, era para hoy"
 
-print(f"Hola, soy {nombre}")
-print(f"Estudio {carrera} en el SENA")
-print(f"Mi proyecto es: {proyecto}")
+print(f"Hola, soy {Mariana Pizarro}")
+print(f"Estudio {ADSO} en el SENA")
+print(f"Mi proyecto es: {Uy, era para hoy}")
